@@ -4,7 +4,8 @@ We are currently playing with Markdown not much else!
 
 ### Markdown
 
-[goog](https://www.google.com/) and ![clarkson](https://i.imgur.com/wqoxO3W.jpg)
+Heres a link to [goog](https://www.google.com/) and this is clarkson below! 
+![clarkson](https://i.imgur.com/wqoxO3W.jpg)
 ```markdown
 Syntax highlighted code block
 
