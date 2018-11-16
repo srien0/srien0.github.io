@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome My page!
 
-You can use the [editor on GitHub](https://github.com/srien0/srien0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are currently playing with Markdown not much else!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Heres a link to [goog](https://www.google.com/) and this is clarkson below! 
+![clarkson](https://i.imgur.com/wqoxO3W.jpg)
 ```markdown
 Syntax highlighted code block
 
