@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.google.com/](goog) and ![https://i.imgur.com/wqoxO3W.jpg](Clarkson)
+[goog](https://www.google.com/) and ![clarkson](https://i.imgur.com/wqoxO3W.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
